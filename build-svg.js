@@ -34,7 +34,7 @@ weather.setCoordinate(16.047079,108.206230)
 weather.setUnits('imperial')
 weather.setAPPID(WEATHER_API_KEY)
 
-weather.getWeatherOneCall(function (err, data) {
+weather.getAllWeather(function (err, data) {
   if (err) console.log(err)
 
   const degF = Math.round(data.daily[0].temp)
