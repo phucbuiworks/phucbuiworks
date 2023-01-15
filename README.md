@@ -1,4 +1,4 @@
-[![message_svg](https://github.com/phucbuiworks/phucbuiworks/blob/master/chat.svg)](https://phucbuiworks.github.io/)
+
 
 ***
 ### E-mail Addresses
