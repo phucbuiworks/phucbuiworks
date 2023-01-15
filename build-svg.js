@@ -34,10 +34,10 @@ weather.setCoordinate(16.047079,108.206230)
 weather.setUnits('imperial')
 weather.setAPPID(WEATHER_API_KEY)
 
-weather.getAllWeather(function (err, data) {
+weather.getWeatherOneCall(function (err, data) {
   if (err) console.log(err)
 
-  const degF = Math.round(data.daily[0].temp)
+  const degF = Math.round(data.daily[0].temp.max)
   const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
   const icon = data.daily[0].weather[0].icon
 
