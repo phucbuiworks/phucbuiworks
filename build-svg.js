@@ -37,9 +37,9 @@ weather.setAPPID(WEATHER_API_KEY)
 weather.getWeatherOneCall(function (err, data) {
   if (err) console.log(err)
 
-  const degF = Math.round(data.daily[0].temp.max)
+  const degF = Math.round(data.hourly[0].temp)
   const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
-  const icon = data.daily[0].weather[0].icon
+  const icon = data.hourly[0].weather[0].icon
 
   fs.readFile('template.svg', 'utf-8', (error, data) => {
     if (error) {
