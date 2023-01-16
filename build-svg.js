@@ -40,6 +40,7 @@ weather.getWeatherOneCall(function (err, data) {
   const degF = Math.round(data.daily[0].temp.max)
   const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
   const icon = data.daily[0].weather[0].icon
+  const wdes = data.daily[0].weather[0].description
 
   fs.readFile('template.svg', 'utf-8', (error, data) => {
     if (error) {
@@ -52,6 +53,8 @@ weather.getWeatherOneCall(function (err, data) {
     data = data.replace('{weatherEmoji}', emojis[icon])
     data = data.replace('{psTime}', psTime)
     data = data.replace('{todayDay}', todayDay)
+    data = data.replace('{wdes}', wdes)
+    
 
     data = fs.writeFile('chat.svg', data, (err) => {
       if (err) {
