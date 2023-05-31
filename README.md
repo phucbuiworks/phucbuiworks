@@ -7,7 +7,7 @@
 
 ***
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phucbuiworks)](https://github.com/phucbuiworks/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phucbuiworks&row=2&column=4)](https://github.com/phucbuiworks/github-profile-trophy)
 
 ***
 
