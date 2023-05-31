@@ -7,6 +7,10 @@
 
 ***
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=phucbuiworks)](https://github.com/phucbuiworks/github-profile-trophy)
+
+***
+
 [![snake svg](https://github.com/phucbuiworks/phucbuiworks/blob/output/github-contribution-grid-snake.svg)](https://github.com/phucbuiworks)
 
 <p align="center">
