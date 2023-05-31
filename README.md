@@ -7,7 +7,7 @@
 
 ***
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phucbuiworks&row=2&column=4&no-bg=true)](https://github.com/phucbuiworks/)
+[![trophy]{ width="800" height="600" style="display: block; margin: 0 auto" }(https://github-profile-trophy.vercel.app/?username=phucbuiworks&row=2&column=4&no-bg=true)](https://github.com/phucbuiworks/)
 
 ***
 
