@@ -7,7 +7,7 @@
 
 ***
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phucbuiworks&row=2&column=4&no-bg=true)](https://github.com/phucbuiworks/)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
 ***
 
