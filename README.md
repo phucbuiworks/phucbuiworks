@@ -19,7 +19,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@dailykohi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dailykohi)](https://twitter.com/dailykohi)
 [![Instagram Badge](https://img.shields.io/badge/-@dailyorenji-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dailyorenji/)](https://instagram.com/dailyorenji)
 [![Gmail Badge](https://img.shields.io/badge/-phucbuiworks-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucbuiworks@gmail.com)](mailto:phucbuiworks@gmail.com)
-![Visit Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphucbuiworks&count_bg=%23FF8C00&title_bg=%236E6767&icon=paypal.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Visit Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphucbuiworks&count_bg=%23FF8C00&title_bg=%236E6767&icon=paypal.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 <p align="center">
  <img src="https://media0.giphy.com/media/kfA0bz4EZUDAPrXDTi/giphy.gif?cid=ecf05e47u9vuvhpj8f4spbr3ibui7an4wj6bromh13ekyfg7&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
