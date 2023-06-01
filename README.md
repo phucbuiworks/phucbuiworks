@@ -22,7 +22,6 @@
 ![Visit Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphucbuiworks&count_bg=%23FF8C00&title_bg=%236E6767&icon=paypal.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 <p align="center">
- <img src="https://media0.giphy.com/media/kfA0bz4EZUDAPrXDTi/giphy.gif?cid=ecf05e47u9vuvhpj8f4spbr3ibui7an4wj6bromh13ekyfg7&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  <img src="https://media1.giphy.com/media/MX5tWoGn9B3iU1riZJ/giphy.gif?cid=ecf05e475yjavlv7wohy7ba842xv6mtzaw7pizhwd56it1ld&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  <img src="https://media1.giphy.com/media/MX5tWoGn9B3iU1riZJ/giphy.gif?cid=ecf05e475yjavlv7wohy7ba842xv6mtzaw7pizhwd56it1ld&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  <img src="https://media0.giphy.com/media/kfA0bz4EZUDAPrXDTi/giphy.gif?cid=ecf05e47u9vuvhpj8f4spbr3ibui7an4wj6bromh13ekyfg7&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
@@ -37,5 +36,4 @@
  <img src="https://media0.giphy.com/media/kfA0bz4EZUDAPrXDTi/giphy.gif?cid=ecf05e47u9vuvhpj8f4spbr3ibui7an4wj6bromh13ekyfg7&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  <img src="https://media1.giphy.com/media/MX5tWoGn9B3iU1riZJ/giphy.gif?cid=ecf05e475yjavlv7wohy7ba842xv6mtzaw7pizhwd56it1ld&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  <img src="https://media1.giphy.com/media/MX5tWoGn9B3iU1riZJ/giphy.gif?cid=ecf05e475yjavlv7wohy7ba842xv6mtzaw7pizhwd56it1ld&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
- <img src="https://media0.giphy.com/media/kfA0bz4EZUDAPrXDTi/giphy.gif?cid=ecf05e47u9vuvhpj8f4spbr3ibui7an4wj6bromh13ekyfg7&rid=giphy.gif&ct=s" alt="opencv" width="48" height="48"/>
  </p>
