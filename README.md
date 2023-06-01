@@ -4,9 +4,14 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=phucbuiworks&show_icons=true&theme=dracula&hide=stars,issues)
 
+
+
 ***
 
 [![snake svg](https://github.com/phucbuiworks/phucbuiworks/blob/output/github-contribution-grid-snake.svg)](https://github.com/phucbuiworks)
+***
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21avfshwc4qjromz37ujm3ley&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21avfshwc4qjromz37ujm3ley&redirect=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-phucbui22-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phucbui22/)](https://www.linkedin.com/in/phucbui22/)
 [![Medium Badge](https://img.shields.io/badge/-@phucbuiworks-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@phucbuiworks)](https://medium.com/@phucbuiworks)
