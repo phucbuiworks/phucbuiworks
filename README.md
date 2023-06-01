@@ -2,8 +2,9 @@
 
 ***
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=phucbuiworks&show_icons=true&theme=dracula&hide=stars,issues)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=phucbuiworks&count_private=true&show_icons=true&include_all_commits=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucbuiworks&hide=TeX&layout=compact)
 
 
 ***
