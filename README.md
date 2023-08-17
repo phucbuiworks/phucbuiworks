@@ -3,10 +3,10 @@
 ***
 
 ### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=phucbuiworks&count_private=true&show_icons=true&include_all_commits=true&hide=)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=phucbuiworks&count_private=true&show_icons=true&include_all_commits=true&hide=)
 [![GitHub Streak](https://streak-stats.demolab.com?user=phucbuiworks&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucbuiworks&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phucbuiworks&hide=TeX&layout=compact)
 
 
 ***
