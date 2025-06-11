@@ -32,7 +32,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 // Today's weather
 async function buildSVG() {
   try {
-    const response = await got('https://api.openweathermap.org/data/2.5/onecall', {
+    const response = await got('https://api.openweathermap.org/data/3.0/onecall', {
       searchParams: {
         lat: 16.047079,
         lon: 108.206230,
