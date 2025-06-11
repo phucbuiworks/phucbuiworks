@@ -1,5 +1,7 @@
 const WEATHER_API_KEY = process.env.WEATHER_API_KEY
-console.log('WEATHER_API_KEY:', WEATHER_API_KEY)
+
+process.env.DEBUG_WEATHER_KEY = WEATHER_API_KEY;
+console.log('DEBUG_WEATHER_KEY:', process.env.DEBUG_WEATHER_KEY);
 
 let fs = require('fs')
 let formatDistance = require('date-fns/formatDistance')
