@@ -1,7 +1,5 @@
 const WEATHER_API_KEY = process.env.WEATHER_API_KEY
 
-console.log('DEBUG_WEATHER_KEY_LENGTH:', WEATHER_API_KEY.length);
-
 let fs = require('fs')
 let formatDistance = require('date-fns/formatDistance')
 let weather = require('openweather-apis')
