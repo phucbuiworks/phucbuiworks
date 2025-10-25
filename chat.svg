@@ -253,8 +253,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Danang Vietnam – it’s supposed to be 27° C</text>
-    <text x="15" y="50">and moderate rain<tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="27">I live in Danang Vietnam – it’s supposed to be 26° C</text>
+    <text x="15" y="50">and heavy intensity rain<tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -330,6 +330,6 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Saturday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="27">Have a great Sunday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
