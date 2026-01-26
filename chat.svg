@@ -254,7 +254,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Danang Vietnam – it’s supposed to be 26° C</text>
-    <text x="15" y="50">and light rain<tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="50">and overcast clouds<tspan class="emoji">☁️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
